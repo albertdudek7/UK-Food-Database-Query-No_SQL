@@ -3,7 +3,7 @@ The following in-class activities helped with finding correct code:
 
 - mongodb_aggregation_pipeline helped with finding the query search for establishments with a Hygiene score equal to 20
 - sort_and_limit helped with setting up the query and sort part of the set_up
-
+- aggregate_by_classification helped with the code to convert mongo result to Pandas DataFrame
 
 
 
