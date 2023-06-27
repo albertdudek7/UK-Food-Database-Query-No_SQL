@@ -1,4 +1,12 @@
 # nosql-challenge
+The following in-class activities helped with finding correct code:
+
+- mongodb_aggregation_pipeline helped with finding the query search for hygiene score greater than 20
+- sort_and_limit helped with setting up the query and sort part of the set_up
+
+
+
+
 
 Instructions
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
