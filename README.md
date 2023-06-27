@@ -4,6 +4,7 @@ The following in-class activities helped with finding correct code:
 - mongodb_aggregation_pipeline helped with finding the query search for establishments with a Hygiene score equal to 20 and for the last part of the analysis of finding how many establishments in each Local Authority area have a hygiene score of 0.
 - sort_and_limit helped with setting up the query and sort part of the set_up
 - aggregate_by_classification helped with the code to convert mongo result to Pandas DataFrame
+- build_a_pipeline was helpful in writing the aggregation query, putting the pipeline together and running the pipeline through the aggregate method. 
 
 Some comments from classmates in Slack were insightful primarily from Aaron Otto and instructor Shaun McPeck regarding adding the establishments.json file and setting up the query for London establishments.
 
