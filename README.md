@@ -1,4 +1,3 @@
-# nosql-challenge
 The following in-class activities helped with finding correct code:
 
 - mongodb_aggregation_pipeline helped with finding the query search for establishments with a Hygiene score equal to 20 and for the last part of the analysis of finding how many establishments in each Local Authority area have a hygiene score of 0.
